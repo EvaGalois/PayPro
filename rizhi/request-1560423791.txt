@@ -1,0 +1,1 @@
+-------------------------------------------------\r\nmch_id=12651&notify_url=http://127.0.0.1/notify.php&out_trade_no=1560423791&pay_type=alipay.web&remark=金额输入框页的测试&return_url=http://127.0.0.1/return.php&total_fee=100.00&version=1.0&nq5DjycsFbZwPLJQ0M1YBzdgIafReUit
